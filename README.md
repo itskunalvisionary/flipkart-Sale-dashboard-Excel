@@ -16,7 +16,3 @@ An interactive Excel dashboard simulating a Junior Data Analyst role at Flipkart
 - Return Rate
 - Top 10 Customers
 
-## 📂 Files Included
-- `Flipkart_Ecommerce_Dashboard.xlsx` (final project)
-- `RawData_Orders.csv` (raw input)
-- `CleanData_Customers.csv` (Power Query output)
